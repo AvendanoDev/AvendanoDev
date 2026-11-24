@@ -12,7 +12,6 @@ Hola soy Diego Alonso Avendaño Cardenas!
 <hr>
 
 ```
--------------------------
 💻 Soy un desarrollador con conocimientos de Back-end e Front-end.
 📚 Tengo una Licenciatura en Análisis de Sistemas.
 📝 Tengo interés en la ciencia de datos y la inteligencia artificial.
@@ -22,7 +21,6 @@ Hola soy Diego Alonso Avendaño Cardenas!
 🚩 Interesado en el desarrollo de aplicaciones.
 💖 En una relación complicada con las Redes Neuronales.
 🎵 Me encanta el Hip Hop, Rock y la música suave.
--------------------------
 ```
 <hr>
 
